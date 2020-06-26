@@ -1,3 +1,0 @@
-/home/jarnbarn/Documents/game_tutorial/pong/build/CMakeFiles/rebuild_cache.dir
-/home/jarnbarn/Documents/game_tutorial/pong/build/CMakeFiles/pong.dir
-/home/jarnbarn/Documents/game_tutorial/pong/build/CMakeFiles/edit_cache.dir
